@@ -1,0 +1,7 @@
+footyvenv
+output_videos
+football-players-detection-1
+*.mp4
+*.pt
+__pycache__
+runs
